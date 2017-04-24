@@ -10,5 +10,6 @@ C:\Users\naden\workspaces\week9team2-c-week9-pair-exercises\m3-w3d3-capstone\Cap
 C:\Users\naden\workspaces\week9team2-c-week9-pair-exercises\m3-w3d3-capstone\Capstone.UITests\bin\Debug\WebDriver.Support.dll
 C:\Users\naden\workspaces\week9team2-c-week9-pair-exercises\m3-w3d3-capstone\Capstone.UITests\bin\Debug\WebDriver.xml
 C:\Users\naden\workspaces\week9team2-c-week9-pair-exercises\m3-w3d3-capstone\Capstone.UITests\bin\Debug\WebDriver.Support.xml
+C:\Users\naden\workspaces\week9team2-c-week9-pair-exercises\m3-w3d3-capstone\Capstone.UITests\obj\Debug\Capstone.UITests.csprojResolveAssemblyReference.cache
 C:\Users\naden\workspaces\week9team2-c-week9-pair-exercises\m3-w3d3-capstone\Capstone.UITests\obj\Debug\Capstone.UITests.dll
 C:\Users\naden\workspaces\week9team2-c-week9-pair-exercises\m3-w3d3-capstone\Capstone.UITests\obj\Debug\Capstone.UITests.pdb
